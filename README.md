@@ -1,1 +1,2 @@
-# django-voting-by-polls
+Django Voting and Polls App
+![](images/)
