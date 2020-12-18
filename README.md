@@ -1,0 +1,1 @@
+# django-voting-by-polls
